@@ -1,1 +1,0 @@
-This is justin's first git project!
